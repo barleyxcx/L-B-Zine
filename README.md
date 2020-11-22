@@ -29,7 +29,7 @@ PNCA Graduate Symposium 2020 Care Reader
 Add class="columns" to a container div
 Add class="column" to divs inside of that to make evenly spaced columns eg
 
-...
+```
 <div class="columns">
     <div class="column">
 
@@ -41,4 +41,4 @@ Add class="column" to divs inside of that to make evenly spaced columns eg
 
     </div>
 </div>
-...
+```
