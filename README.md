@@ -59,3 +59,5 @@ edit a single column with
     font-color:green;
 }
 ```
+
+Peep https://bulma.io/documentation/columns/basics/ for more info
