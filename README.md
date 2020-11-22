@@ -31,14 +31,31 @@ Add class="column" to divs inside of that to make evenly spaced columns eg
 
 ```
 <div class="columns">
-    <div class="column">
+    <div class="column first">
 
     </div>
-    <div class="column">
+    <div class="column second">
 
     </div>
-    <div class="column">
+    <div class="column third">
 
     </div>
 </div>
+```
+for a three-column section.
+
+Add gaps in css with 
+
+```
+.column {
+    margin: 2%;
+}
+```
+
+edit a single column with
+
+```
+.first {
+    font-color:green;
+}
 ```
