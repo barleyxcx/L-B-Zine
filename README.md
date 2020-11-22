@@ -24,3 +24,21 @@ PNCA Graduate Symposium 2020 Care Reader
   - git pull origin main
   - git push origin main
 
+## Grid system:
+
+Add class="columns" to a container div
+Add class="column" to divs inside of that to make evenly spaced columns eg
+
+...
+<div class="columns">
+    <div class="column">
+
+    </div>
+    <div class="column">
+
+    </div>
+    <div class="column">
+
+    </div>
+</div>
+...
